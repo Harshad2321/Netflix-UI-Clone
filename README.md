@@ -37,3 +37,15 @@ This project marks an **important milestone** in my journey as a web developer ð
 
 ---
 
+---
+
+##  Live Preview  
+Check out the live version of this project here:  
+[Live Demo on Vercel](https://netflix-ui-clone-smoky.vercel.app/)  
+
+---
+
+##  How to Run Locally  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Harshad2321/Netflix-Clone.git
